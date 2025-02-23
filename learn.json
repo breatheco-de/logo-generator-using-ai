@@ -6,14 +6,18 @@
 	"slug": "logo-generator-using-ai",
 	"status": "published",
 	"duration": 4,
+	"template_url": "https://github.com/4GeeksAcademy/react-hello",
 	"preview": "https://storage.googleapis.com/screenshots-breathecode/eb7a96488d13a4567089b65dec4afc7292dd100e851045cb8c76ccb69fec9787",
 	"translations": ["es", "us"],
 	"difficulty": "intermediate",
 	"technologies": ["javascript", "react", "prompt-engineer", "generative-ai"],
 	"description": {
-		"us": "Create a Company Logo Generator using AI. Build a React app using ChatGPT’s API to generate logo descriptions from user input. Enhance your coding skills with this interactive project!",
-		"es": "Crea un Generador de Logotipos de Empresa usando IA. Construye una aplicación React que utiliza la API de ChatGPT para generar descripciones de logotipos desde entradas de usuario. ¡Mejora tus habilidades de programación con este proyecto práctico!"
+		"us": "Create an AI-powered company logo generator! Build a React app using ChatGPT’s API to create unique logo descriptions from user input like company name, industry, and style. Enhance your coding skills while learning API integration, form handling, and creative text generation in this interactive project!",
+		"es": "¡Crea un generador de logotipos de empresa impulsado por IA! Construye una app en React usando la API de ChatGPT para crear descripciones únicas de logotipos a partir de la información del usuario, como el nombre de la empresa, industria y estilo. Mejora tus habilidades de programación mientras aprendes a integrar APIs y manejar formularios."
 	},
 	"autoPlay": false,
-	"projectType": "project"
+	"projectType": "project",
+	"telemetry": {
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1973"
+	}
 }
